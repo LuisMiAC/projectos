@@ -2,7 +2,7 @@ package _01Ejemplo;
 
 public class ContarRepetidos {
 
-	static int A = 1;
+	static int A = 15;
 	static int B = 20;
 	static int vectorA[] = new int[A];
 	static int vectorB[] = new int[B];
